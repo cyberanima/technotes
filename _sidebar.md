@@ -1,0 +1,6 @@
+* [深度学习深度学习](notes/intro.md)
+    * [深度学习入门（鱼书）](notes/fish.md)
+        * [神经网络的结构](notes/structure.md)
+        * [神经网络的学习](notes/learn.md)
+        * [误差反向传播法](notes/bp.md)
+        * [学习相关的技巧](notes/tac.md)
