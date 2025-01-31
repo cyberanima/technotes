@@ -4,3 +4,4 @@
         * [神经网络的学习](notes/learn.md)
         * [误差反向传播法](notes/bp.md)
         * [学习相关的技巧](notes/tac.md)
+        * [卷积神经网络](notes/cnn.md)
