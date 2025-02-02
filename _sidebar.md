@@ -5,3 +5,7 @@
         * [误差反向传播法](notes/bp.md)
         * [学习相关的技巧](notes/tac.md)
         * [卷积神经网络](notes/cnn.md)
+    * [深度学习进阶（NLP）](notes/fish2.md)
+        * [分布式假设](notes/hypo.md)
+        * [RNN](notes/rnn.md)
+        * [LSTM](notes/lstm.md)

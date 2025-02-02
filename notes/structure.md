@@ -2,12 +2,12 @@
 
 >异或门的问题
 
-![alt text](structure/image-1.png)  
+![alt text](structure/image-1.png ':size=600')  
 多次线性的叠加并不能解决异或门输出值分类的问题
 
 >如果将激活函数从阶跃函数换成其他函数，就可以进入神经网络的世界了  
 
-![alt text](structure/image.png)  
+![alt text](structure/image.png ':size=600')  
 上图中h( )为激活函数，前面所有节点输入做权重分配后相加之和为a，y=h(a)为输出。  
 h( )若为阶跃函数，则是感知机，若为非线性激活函数（如sigmoid、relu等）则是神经网络，多层感知机也可成为后者
 
@@ -17,8 +17,8 @@ sigmoid函数比阶跃函数更好的原因是其平滑性
 神经网络必须使用非线性函数作为激活函数。因为使用线性函数时，无法发挥多层网络带来的优势（线性的线性还是线性，解决不了异或门的问题，见首图）。因此，为了发挥叠加层所带来的优势，激活函数必须使用非线性函数
 
 以下接连三张图解释了三层神经网络的构成（一个输入层，二个隐藏层，一个输出层。也有的叫四层神经网络）  
-![alt text](structure/image-2.png)  
-![alt text](structure/image-4.png)  
-![alt text](structure/image-5.png)  
+![alt text](structure/image-2.png ':size=600')  
+![alt text](structure/image-4.png ':size=600')  
+![alt text](structure/image-5.png ':size=600')  
 输出层：回归问题用恒等函数，分类问题用softmax函数；输出层神经元数量取决于类别数量
 

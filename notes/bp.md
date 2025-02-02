@@ -1,6 +1,6 @@
 # 鱼书摘记之三
 基于链式法则（chain rule）的反向传播，是偏导数的逆行而上，是搜寻原因的变化对结果的变化的影响程度，是微分而非积分，星星之火可以燎原，萌芽的式微并不代表力量对比的始终如此，反向传播是涌动的暗流  
-![alt text](bp/image-1.png)  
+![alt text](bp/image-1.png ':size=600')  
 ```python
 # 构建乘法层
 class MulLayer: 
@@ -23,7 +23,7 @@ class MulLayer:
         dy = dout * self.x # 如前所述，调用变量x和y
         return dx, dy
 ```    
-![alt text](bp/image.png)  
+![alt text](bp/image.png ':size=600')  
 ```python
 # 构建加法层
 class AddLayer:

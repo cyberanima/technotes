@@ -1,1 +1,1 @@
-![alt text](fish.png)
+![alt text](fish.png ':size=x600')

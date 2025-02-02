@@ -7,7 +7,7 @@
 
 >批量规范化Batch Normalization：改善激活值分布缺乏广度的问题（如sigmoid激活值趋向01分布而导致的梯度消失进而使得学习效率下降），加速深度神经网络学习的收敛速度
 
-![alt text](tac/image.png)
+![alt text](tac/image.png ':size=600')
 
 >正则化Regularization：防止过拟合  
 >· 权值衰减  
