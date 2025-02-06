@@ -9,3 +9,5 @@
         * [分布式假设](notes/hypo.md)
         * [RNN](notes/rnn.md)
         * [LSTM](notes/lstm.md)
+    * [Hands-On（CONT）](notes/hands-on.md)
+        * [环境搭建](notes/env.md)
