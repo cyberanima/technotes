@@ -15,6 +15,5 @@
     * [AI20004A](ed/mipy.md)
         <!-- * [Syllabus](ed/syllabus.md) -->
         * [L01_Fundamentals](ed/L01.md)
-        <!-- * [tools](ed/tools.md) -->
         * [ASCII](ed/ascii.md)
     <!-- * RaspberryPi -->
