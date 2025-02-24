@@ -12,7 +12,9 @@
     * [Hands-On](dldl/hands-on.md)
         * [环境搭建](dldl/env.md)
 * [EdgeDevices](ed/din.md)
-    * [MicroPython](ed/mipy.md)
-        * env
-        * demo1
-    * RaspberryPi
+    * [AI20004A](ed/mipy.md)
+        <!-- * [Syllabus](ed/syllabus.md) -->
+        * [L01_Fundamentals](ed/L01.md)
+        <!-- * [tools](ed/tools.md) -->
+        * [ASCII](ed/ascii.md)
+    <!-- * RaspberryPi -->
