@@ -4,7 +4,7 @@
 
 用最便宜的方案完成32B_Q4（理论可达90%全量）的微调环境，预留双显卡SLI空间。志强E5V4有40条PCI-E直连，满足两个PCIEx16。魔改2080Ti--22GB显存理论上刚好够微调[QLORA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/pdf/2305.14314)，且支持SLI。E5V4支持ECC，使用服务器内存(Register ECC / ECC RDIMM)。主板X99（支持E5、ECC、SLI），华擎太极，设计的真好看。  
 
-![ASROCK X99 Taichi](image.png ':size=600')  
+![ASROCK X99 Taichi](list/image.png ':size=600')  
 
 >以上有的是洋垃圾，有的是拆机件，有的是魔改件，有的是自用转手件，总之都是二手件，却非常好用。  
 
@@ -12,6 +12,6 @@
 
 其他的还有全新的固态硬盘、磁盘、电源、机箱、风扇（CPU风扇x1、机箱风扇x5），归了包堆5933.48元（主板还搭着一片i7 6850k）。花了不少时间研究配置，这种与生产资料相结合的过程感觉很好，和摩托车改装有相似性。  
   
-![alt text](a362771bf3b64c666258b060cfa34df.png ':size=500')  
+![alt text](list/a362771bf3b64c666258b060cfa34df.png ':size=500')  
 
-![alt text](image-1.png ':size=125')
+![alt text](list/image-1.png ':size=125')
