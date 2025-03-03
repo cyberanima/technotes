@@ -20,3 +20,4 @@
     <!-- * RaspberryPi -->
 * [Cyberanima](CA/cyber.md)
     * [Winpe](CA/winpe.md)
+    * [List](CA/list.md)
