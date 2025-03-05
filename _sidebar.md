@@ -16,6 +16,7 @@
         <!-- * [Syllabus](ed/syllabus.md) -->
         * [L01_Fundamentals](ed/L01.md)
         * [L02_DevEnv](ed/L02.md)
+        * [L02_additional](ed/L02_additional.md)
         * [ASCII](ed/ascii.md)
     <!-- * RaspberryPi -->
 * [Cyberanima](CA/cyber.md)
