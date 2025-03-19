@@ -18,7 +18,9 @@
         * [L02_DevEnv](ed/L02.md)
         * [L02_additional](ed/L02_additional.md)
         * [L03_Thonny](ed/L03.md)
+        * [L03_additional](ed/L03_additional.md)
         * [L04_GPIO](ed/L04.md)
+        * [L05_AnalogRead](ed/L05.md)
         * [ASCII](ed/ascii.md)
     <!-- * RaspberryPi -->
 * [Cyberanima](CA/cyber.md)
