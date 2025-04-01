@@ -23,6 +23,7 @@
         * [L05_AnalogRead](ed/L05.md)
         * [L06_PWM](ed/L06.md)
         * [L07_UART](ed/L07.md)
+        * [Experiment1](ed/Exp1.md)
         * [ASCII](ed/ascii.md)
     <!-- * RaspberryPi -->
 * [Cyberanima](CA/cyber.md)
