@@ -23,8 +23,8 @@ Implement real-time LED brightness adjustment using a potentiometer. The system 
    - Anode → PWM Pin (e.g., GPIO 15)  
    - Cathode → GND via 220Ω resistor  
 3. **OLED Display:**  
-   - SCL → GPIO 1  
-   - SDA → GPIO 2  
+   - SCL → GPIO 6  
+   - SDA → GPIO 5  
    - VCC → 3.3V  
    - GND → GND 
 
