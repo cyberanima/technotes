@@ -4,7 +4,7 @@
 Implement real-time LED brightness adjustment using a potentiometer. The system will:
 1. Read voltage from a potentiometer via ESP32S3’s ADC.
 2. Adjust LED brightness using PWM based on the ADC value.
-3. Display the real-time voltage on an OLED screen.
+3. Display the real-time voltage and ```brightness percent **(N%)**``` on an OLED screen.
 ## Components Required
 | Component          | Quantity | Details                          |  
 |---------------------|----------|----------------------------------|  
@@ -32,7 +32,7 @@ Implement real-time LED brightness adjustment using a potentiometer. The system 
 **Number:**  
 **Name:**  
 
-**Step 1** Simulation of the LED Dimmer Switch Project in Wokwi. In simulation, it's not necessary to connect OLED, but you can display the potentiometer voltage by ```print```.  
+**Step 1** Simulation of the LED Dimmer Switch Project in Wokwi. In simulation, it's not necessary to connect OLED, but you can display the potentiometer voltage and brightness persent **(N%)** by ```print```.  
 **Paste the screenshot of the simulation results below.**
 
 **Step 2** Code for the LED Dimmer Switch Project on hardware.  
