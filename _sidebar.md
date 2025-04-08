@@ -24,6 +24,7 @@
         * [L06_PWM](ed/L06.md)
         * [L07_UART](ed/L07.md)
         * [Experiment1](ed/Exp1.md)
+        <!-- * [Quiz1](ed/Quiz1.md) -->
         * [ASCII](ed/ascii.md)
     <!-- * RaspberryPi -->
 * [Cyberanima](CA/cyber.md)
