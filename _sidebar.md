@@ -23,6 +23,7 @@
         * [L05_AnalogRead](ed/L05.md)
         * [L06_PWM](ed/L06.md)
         * [L07_UART](ed/L07.md)
+        * [L08_WebServer](ed/L08.md)
         * [Experiment1](ed/Exp1.md)
         * [Quiz1](ed/Quiz1.md)
         * [ASCII](ed/ascii.md)
