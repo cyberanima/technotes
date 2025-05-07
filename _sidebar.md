@@ -26,6 +26,7 @@
         * [L08_WebServer](ed/L08.md)
         * [L09_DHT11](ed/L09.md)
         * [Experiment1](ed/Exp1.md)
+        * [Experiment2](ed/Exp2.md)
         * [Quiz1](ed/Quiz1.md)
         * [ASCII](ed/ascii.md)
     <!-- * RaspberryPi -->
