@@ -31,6 +31,7 @@
         * [Quiz1](ed/Quiz1.md)
         * [ASCII](ed/ascii.md)
         * [Mosquitto](ed/Mosquitto.md)
+        * [Node-Red](ed/NodeRed.md)
     <!-- * RaspberryPi -->
 * [Cyberanima](CA/cyber.md)
     * [Winpe](CA/winpe.md)
