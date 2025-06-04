@@ -29,6 +29,7 @@
         * [Experiment1](ed/Exp1.md)
         * [Experiment2](ed/Exp2.md)
         * [Quiz1](ed/Quiz1.md)
+        * [Quiz2](ed/Quiz2.md)
         * [ASCII](ed/ascii.md)
         * [Mosquitto](ed/Mosquitto.md)
         * [Node-Red](ed/NodeRed.md)
